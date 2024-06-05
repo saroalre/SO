@@ -1,5 +1,3 @@
-# This is a basic workflow to help you get started with Actions
-
 name: Convert And Deploy Mermaid Diagrams In Markdown To GitHub Pages
 
 # Runs on pushes targeting the default branch
